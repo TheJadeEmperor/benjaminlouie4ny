@@ -2,6 +2,7 @@
 @import url("<link href="https://fonts.googleapis.com/css?family=Montserrat:100,200,300,400,500,600,700,800,900" rel="stylesheet">");
 body {
     font-family: 'Montserrat', sans-serif;
+ 
 }
 
 /* Basic */
@@ -50,7 +51,7 @@ p {
     font-size: 18px;
     font-weight: 500;
     color: #fff;
-  68+  letter-spacing: 0.5px;
+    letter-spacing: 0.5px;
     display: inline-block;
     padding: 15px 20px;
     border: 2px solid rgba(250,250,250,0.1);
@@ -60,7 +61,7 @@ p {
 /* Buttons */
 
 .main-button a {
-    background-color: #f5a425;
+    background-color: #f6303e;
     color: #fff;
     font-size: 13px;
     text-transform: uppercase;
@@ -72,7 +73,6 @@ p {
 }
 
 .main-button a:hover {
-    background-color: rgb(213, 144, 34)25;
     color: rgb(234, 229, 229);
 }
 
@@ -161,7 +161,7 @@ a.menu-link { display: none; }
 }
 
 .main-header {
-    background-color: rgba(22,34,57,0.95);
+    background-color: rgba(0, 72, 130, 1);
     height: 80px;
     position: fixed;
     z-index: 12;
@@ -183,7 +183,7 @@ a.menu-link { display: none; }
 }
 .main-header .logo a em {
     font-style: normal;
-    color: #f5a425;
+    color: #f6303e;
 }
 
 .main-menu {
@@ -348,7 +348,7 @@ a.menu-link { display: none; }
 
 .main-banner .caption h2 em {
   font-style: normal;
-  color: #f5a425;
+  color: #f6303e;
   font-weight: 900;
 }
 
@@ -544,7 +544,6 @@ section.features .col-4 {
 
 section.why-us {
     background-image: url(../images/choosing-bg.jpg);
-    background-color: #172238;
     background-repeat: no-repeat;
     background-size: cover;
     padding-bottom: 100px;
@@ -672,11 +671,9 @@ section.why-us {
 
 /* Coming Soon */
 
-section.coming-soon {
-    background-image: url(../images/coming-soon-bg.jpg);
+section.coming-soon { 
     background-repeat: no-repeat;
-    background-size: cover;
-    background-color: #172238;
+    background-size: cover; 
     padding: 120px 0px;
 }
 
@@ -846,11 +843,9 @@ section.coming-soon form button {
 
 /* Courses */
 
-section.courses {
-    background-image: url(../images/choosing-bg.jpg);
+section.courses { 
     background-repeat: no-repeat;
-    background-size: cover;
-    background-color: #172238;
+    background-size: cover; 
     padding-bottom: 100px;
     padding: 0px 30px 100px 30px;
 }
@@ -936,11 +931,9 @@ section.courses .owl-carousel button.active {
 
 /* Video */
 
-section.video {
-    background-image: url(../images/video-bg.jpg);
+section.video { 
     background-repeat: no-repeat;
-    background-size: cover;
-    background-color: #172238;
+    background-size: cover; 
     padding: 120px 0px;
 }
 
@@ -1497,11 +1490,9 @@ img.mfp-img {
 
 /* Contact */
 
-section.contact {
-    background-image: url(../images/contact-bg.jpg);
+section.contact { 
     background-repeat: no-repeat;
-    background-size: cover;
-    background-color: #172238;
+    background-size: cover; 
     padding-bottom: 120px;
 }
 
