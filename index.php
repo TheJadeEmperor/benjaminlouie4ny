@@ -1,8 +1,5 @@
 <?php
 include('menu.php');
-
-  
-
 ?>
  <!--header-->
  <header class="main-header clearfix" role="header">
