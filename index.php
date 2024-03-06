@@ -82,7 +82,7 @@ include('menu.php');
               <h2>Education</h2>
 
               <p>Our education and specialized schools need to return to a meritocracy system, not a diversity based system.
-              We need smaller class sizes so our students get more attention to teachers. Currently, migrants are added to classes, increasing class size and students don’t get enough attention
+              We need smaller class sizes so our students get more attention to teachers. Currently, migrants are added to classes, increasing class size and students don’t get enough attention.
               </p>
               <h2>Other</h2>
 
@@ -114,7 +114,9 @@ include('menu.php');
           </div>
         </div>
 
-       
+        <img src="assets/images/ga_group_1.jpg" width="100%" />
+        <img src="assets/images/ga_group_2.jpg" width="100%" />
+        <img src="assets/images/ga_group_4.jpg" width="100%" />
       </div>
     </div>
   </section>
